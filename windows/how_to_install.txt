@@ -1,0 +1,8 @@
+WINDOWS (any)
+========
+
+install:
+just unpack on a dir
+
+run:
+click on mega2.exe
